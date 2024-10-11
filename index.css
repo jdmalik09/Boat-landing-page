@@ -263,6 +263,7 @@ input[type="radio"]:checked + .navigation label {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    gap: 10px;
 }
 
 .earpod-box {    
@@ -752,6 +753,7 @@ margin-top: 30px;
     overflow: hidden;
     width: 350px;
     font-size: 16px;
+    margin: 8px;
 }
 
 .card-image {
