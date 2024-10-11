@@ -2,7 +2,7 @@
 
 
 
-Clone of boat Website 😉 [Click Here]([https://lnkd.in/gygMrD8D](https://www.boat-lifestyle.com/)
+Clone of boat Website 😉 [Click Here]([https://lnkd.in/gygMrD8D]([https://www.boat-lifestyle.com/](https://jdmalik09.github.io/Boat-landing-page/))
 
 ### <span style="color:#29c4f6"> <u>Table of Contents:</u>
 
